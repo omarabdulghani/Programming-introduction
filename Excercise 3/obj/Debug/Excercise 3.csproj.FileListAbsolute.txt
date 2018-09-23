@@ -1,0 +1,6 @@
+C:\Users\Omar\source\repos\IntroductionPP1\Excercise 3\bin\Debug\Excercise 3.exe.config
+C:\Users\Omar\source\repos\IntroductionPP1\Excercise 3\bin\Debug\Excercise 3.exe
+C:\Users\Omar\source\repos\IntroductionPP1\Excercise 3\bin\Debug\Excercise 3.pdb
+C:\Users\Omar\source\repos\IntroductionPP1\Excercise 3\obj\Debug\Excercise 3.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\IntroductionPP1\Excercise 3\obj\Debug\Excercise 3.exe
+C:\Users\Omar\source\repos\IntroductionPP1\Excercise 3\obj\Debug\Excercise 3.pdb

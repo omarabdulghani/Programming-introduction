@@ -1,0 +1,7 @@
+C:\Users\Omar\source\repos\IntroductionPP1\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\IntroductionPP1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\IntroductionPP1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Omar\source\repos\IntroductionPP1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Omar\source\repos\IntroductionPP1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Omar\source\repos\IntroductionPP1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Omar\source\repos\IntroductionPP1\Exercise1\obj\Debug\Exercise1.pdb
